@@ -1,0 +1,23 @@
+.bg-dark{
+    background-color: #1a1a1a !important;
+}
+
+#footer{
+    padding: 80px 0;
+    text-align: center;
+    color: #fff;
+}
+
+#footer a{
+    color: #fff;
+
+}
+
+#footer a:hover{
+    color: #fff;
+    
+}
+
+#footer .list-inline .list-inline-item{
+    padding: 10px 15px;
+}

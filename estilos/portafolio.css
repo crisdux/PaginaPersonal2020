@@ -1,0 +1,39 @@
+h2{
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+section{
+    padding: 120px 0;
+}
+
+.portafolio-container{
+    position: relative;
+    overflow: hidden;
+    margin:10px 0;
+    border-radius: 2px;
+}
+
+.portafolio-details{
+    position: absolute;
+    bottom: 25px;
+    left:25px;
+    z-index: 9000;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+/* animaciones */
+.portafolio-container img{
+    -moz-transition: all 0.8s;
+    -webkit-transition: all 0.8s;
+    transition: all 0.8s;
+}
+
+.portafolio-container:hover img{
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}

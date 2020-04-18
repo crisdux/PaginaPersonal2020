@@ -1,0 +1,53 @@
+
+@media (max-width: 575.98px) {
+    h1{
+        font-size: 40px;
+        line-height: 50px;
+        padding-top: 15px;
+    }
+
+    .precio{
+        min-width: unset;
+        padding: 10px;
+        margin-left: 0px;
+    }
+
+    .portafolio-details h2{
+        font-size: 32px;
+    }
+
+    .carousel-container>p{
+        font-size: 10px;
+        font-weight: bold;
+    }
+
+    .footer-menu{
+        display: block !important;
+        padding: 20px 0 !important;
+        font-size: 20px;
+    }
+}
+
+
+@media (max-width: 767.98px) {
+    
+}
+
+
+@media (max-width: 991.98px) {
+    .planes{
+        min-width: unset;
+        padding: 40px 20px;
+    }
+
+    .portafolio-details h2{
+        font-size: 30px;
+    }
+
+    
+}
+
+
+@media (max-width: 1199.98px) {
+
+}

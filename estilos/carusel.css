@@ -1,0 +1,68 @@
+.carousel{
+    min-height: 240px;
+    padding: 40px;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.carousel p{
+    font-size: 26px;
+    font-weight: 400;
+    color:#1f1f1f;
+}
+
+.rating{
+    color: #ffb944;
+    font-size: 26px;
+
+}
+
+.carousel-indicators li{
+    background-color: #1a1a1a;
+    width: 15px;
+    height: 15px;
+    border-radius:2px;
+    margin: 0 8px;
+}
+
+.carousel-control-next, .carousel-control-prev{
+    color:#fff;
+    opacity: 1;
+    width: 55;
+}
+
+.control-button{
+    background-color: #1a1a1a;
+    opacity: 1;
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    border: 1px solid #1a1a1a;
+    border-radius: 50px;
+    font-size: 20px;
+}
+
+.carousel-container{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.testimonial-user{
+    max-width: 240px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.testimonial-user h6{
+    margin-bottom: 0px;
+}
+
+.testimonial-user span{
+    font-size: 12px;
+}
+
+.testimonial-user img{
+    border-radius: 50%;
+    max-width: 50px;
+    text-align: center;
+}

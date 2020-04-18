@@ -1,0 +1,42 @@
+:root{
+    --fondo_gris_claro:#f5f5f5;
+}
+
+.bg-light-grey{
+    background-color: var(--fondo_gris_claro);
+}
+/* a i{
+    font-size: 22px;
+    color:#ffffff;
+} */
+
+.icons-white>li a{
+    font-size: 22px;
+    color:#ffffff; 
+}
+
+h5{
+    margin-bottom: 0px;
+}
+
+/* .member-container{
+    position: relative;
+    margin: 10px 0;
+} */
+
+.member-details{
+    position: absolute;
+    color: #ffffff;
+    bottom: 0px;
+    left:20px;
+}
+
+.member-details span{
+    font-size: 16px;
+}
+
+.member-details i{
+    padding: 0 5px;
+}
+
+
